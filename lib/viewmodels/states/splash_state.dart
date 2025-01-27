@@ -1,0 +1,1 @@
+enum SplashState { loading, welcome, home, login }
